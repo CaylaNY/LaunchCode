@@ -1,1 +1,2 @@
 $ git remote add origin https://github.com/YourUsername/some-small-app.git
+git push --set-upstream https://github.com/CaylaNY/LaunchCode/blob/master/share master
